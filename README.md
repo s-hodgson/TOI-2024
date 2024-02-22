@@ -1,4 +1,4 @@
-# TOI-2024
+# Thing of the Internet 2024 - Labs
 
 
 ## TOI Labs -  Python Environment Configuration
