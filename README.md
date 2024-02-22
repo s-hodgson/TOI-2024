@@ -18,7 +18,7 @@
 	- `pip install wxPython`
 	- `pip install scipy`
 	- `pip install numpy`
-	- `pip install sklearn`
+	- `pip install scikit_learn`
 	- `pip install jupyter`
 	- `pip install statsmodels`
 	- `pip install pandas`
