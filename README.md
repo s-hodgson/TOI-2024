@@ -1,30 +1,23 @@
 # Thing of the Internet 2024 - Labs
 
 
-## TOI Labs -  Python Environment Configuration
+## TOI Labs -  Python Configuration
 
-**Step 1: Download and install Anaconda 3**
-- https://www.anaconda.com/products/individual
+In these labs, we will be using Python 3.12 and Jupyter Notebooks.
 
-**Step 2: Create an environment (you may need to restart terminal after Anaconda installation)**
-- `conda create -n toi python==3.7`
-
-**Step 3: Enter the created environment**
-- `conda activate toi`
-
-**Step 4: Install necessary packages**
-- Some of the packages that you may need in the labs can be installed using:
-	- `pip install matplotlib`
-	- `pip install wxPython`
-	- `pip install scipy`
-	- `pip install numpy`
-	- `pip install scikit-learn`
-	- `pip install jupyter`
-	- `pip install statsmodels`
-	- `pip install pandas`
+**1) Install necessary packages**
+- Some of the packages that you will need in the labs can be installed using:
+	- `pip3 install matplotlib`
+	- `pip3 install wxPython`
+	- `pip3 install scipy`
+	- `pip3 install numpy`
+	- `pip3 install scikit-learn`
+	- `pip3 install jupyter`
+	- `pip3 install statsmodels`
+	- `pip3 install pandas`
 
 
-**Step 5: Open jupyter notebook**
+**2) Open jupyter notebook**
 - Navigate to the folder containing the jupyter notebook file (.ipynb), in the terminal start jupyter notebook by running:
-	- `jupyter notebook`
+	- `python3 -m notebook`
 - This will bring up your default web browser
